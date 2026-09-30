@@ -1,3 +1,15 @@
+## 컨벤져스에서 쓰는 법 (convengers 브랜치 안내)
+
+하네스톤 2회차(2026-09-05) 5팀이 oss-design-harness 틀을 채운 작업본입니다.
+
+이 저장소는 키트에 따로 넣지 않습니다. 정리된 본판은 `vibemafiaclub/oss-design-harness` 이고, 우리 포크의 convengers 브랜치에 키트 형식으로 옮겨 두었습니다. 여기는 팀마다 판단 기준을 어떻게 채웠는지 비교해 볼 때 엽니다.
+
+키트와 붙이는 자세한 자리는 [`convengers/연결.md`](convengers/연결.md) 에 적었습니다.
+
+원저작: VIBE MAFIA CLUB (https://github.com/vibemafiaclub/harnessthon-2-team-5). 라이선스는 원본 LICENSE 파일(MIT) 그대로입니다. 아래 원문과 저작권 표기는 손대지 않았습니다.
+
+---
+
 # oss-design-harness
 
 **현업 디자이너의 판단 기준(안목)을 추출해, 에이전트에 최적화된 형태로 재구성하는 Figma-네이티브 디자인 하네스**
